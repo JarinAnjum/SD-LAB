@@ -1,1 +1,1 @@
-This is Banking managment system in java netbeans.
+This is Banking managment system by using Java.
